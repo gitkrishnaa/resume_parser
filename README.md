@@ -3,6 +3,8 @@
 ```
 A simple resume parser used for extracting information from resumes
 ```
+this project belongs to omkar 
+i am just improving it- gitkrishna
 
 Built with ❤︎ and :coffee: by  [Omkar Pathak](https://github.com/OmkarPathak)
 
